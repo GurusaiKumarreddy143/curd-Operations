@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+build/
+dist/
+
+# logs
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# env files
+.env
